@@ -15,4 +15,4 @@ A redo of the Kerbal Space Program stock solar system that makes the planets/moo
 * Pol and Bop's orbits adjusted to be more distant since the inner three Joolian moons are further out.
 
 ## Other Features
-* KSC moved to a latitude of 28.608389° N.
+* KSC moved to a new location that has a latitude of 28.608389° N.
