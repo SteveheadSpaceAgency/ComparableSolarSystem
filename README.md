@@ -11,7 +11,7 @@ A redo of the Kerbal Space Program stock solar system that makes the planets/moo
 * Dres has been proportionally resized to Ceres without any adjustments to the PQS. The result is a spherical, but jagged planetoid with interesting craters and mountains.
 * Jool is proportionally the same size and mass as Jupiter. This results in a larger gravity well that will prove to be a challenge to escape once in it.
 * Laythe is proportionally the same distance to Jool as Io is to Jool.
-* Laythe, Vall and Tylo are in a 1:2:4 orbital resonance just as Io, Europa and Ganymede are.
+* Laythe, Vall and Tylo maintains the 1:2:4 orbital resonance just as in stock and how Io, Europa and Ganymede are.
 * Pol and Bop's orbits adjusted to be more distant since the inner three Joolian moons are further out.
 
 ## Other Features
