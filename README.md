@@ -2,7 +2,7 @@
 A redo of the Kerbal Space Program stock solar system that makes the planets/moons (mostly orbital elements) more similar to the real solar system, but maintaining the stock flavor.
 
 ## Current Solar System Features
-* All plentary bodies orbits are inclined to simulate a 23.4° axial tilt for Kerbin, similar to how Real Solar System does it.
+* All planetary bodies orbits are inclined to simulate a 23.4° axial tilt for Kerbin, similar to how Real Solar System does it.
 * Semi-major axis and eccentricities for all planets adjusted to be, proportionally, identical to their real life counterparts. Exception is Eeloo's semi-major axis, which is in a 2:3 resonance with Jool, same as how Pluto is with Neptune.
 * Bodies' sizes and mass retain stock values, except for Sun, Mun, Dres, Jool.
 * The Sun's size and mass is proportionally identical to the real Sun.
